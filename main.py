@@ -1,6 +1,6 @@
 def run():
-    name = input("Enter your name: ")
     print("Text Below - important")
+    name = input("Enter your name: ")
     print(f'Hello, {name}')
 
 
