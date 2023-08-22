@@ -8,9 +8,10 @@ def run():
 def func():
     return 1
 
-if __name__=='__main__':
+
+if __name__ == '__main__':
     run()
 
 
-def set():
+def my_set():
     print("Dima Kolendzian - dolboeb")
